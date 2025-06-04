@@ -1,2 +1,2 @@
 # petting-hamster
-https://petting-hamster.pages.dev/
+https://gatakana.pages.dev/
